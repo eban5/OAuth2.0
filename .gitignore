@@ -1,2 +1,4 @@
 
 .vagrant/machines/default/virtualbox/private_key
+
+client_secrets.json
